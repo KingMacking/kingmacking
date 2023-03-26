@@ -54,7 +54,7 @@ I love creating projects that others can enjoy and use, started at my 15's doing
 # 📊 &nbsp;Stats
 
 <a href="https://github.com/KingMacking">
-    <img width=450 height=170 align="center" alt="KingMacking" src="https://github-readme-stats.vercel.app/api?username=KingMacking&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="KingMacking" src="https://github-readme-stats.vercel.app/api?username=KingMacking&theme=midnight-purple&show_icons=true&bg_color=171717&hide_border=true&count_private=true" />
   </a>
 
 <br>
