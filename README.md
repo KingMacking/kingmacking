@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KingMacking/kingmacking/0f505aec13ad9bf6a1201d5c7c32e3a0ec366edb/assets/svg/km-readme.svg" alt="Card header"/>
+  <img src="https://raw.githubusercontent.com/KingMacking/kingmacking/0fbb6d718b65e200b651f59093ebb6a9183b4760/assets/svg/km-readme.svg" alt="Card header"/>
 </div>
 
 <div>
